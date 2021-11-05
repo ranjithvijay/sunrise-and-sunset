@@ -60,7 +60,7 @@ async function getBackgroundImg(){
     
 
     // slice the datetime to extract hour
-    var hour = datetime.slice(11,13);
+     hour = datetime.slice(11,13);
     console.log(datetime+" "+hour);
     
 
